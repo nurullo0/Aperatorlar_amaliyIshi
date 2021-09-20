@@ -1,0 +1,62 @@
+
+
+/* header */
+.logo__img {
+    width: 200px;
+}
+
+/* form */
+.form-control {
+    width: 230px;
+    margin: 0 0 0 1px;
+    border-radius: 0;
+    justify-content: space-around;
+}
+
+button:focus:not(:focus-visible) {
+    box-shadow: 0 0 ;
+    outline: 0;
+}
+
+/* campaniyalar */
+.imageslar {
+    height: 70px;
+    
+}
+
+.image_item {
+    width: 165px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+/* section */
+.aloqa_col {
+    width: 165px;
+    height: 160px;
+    
+}
+
+.aloqa_img {
+    width: 100px;
+    height: 100px;
+}
+
+.card_koz {
+    width: 22px;
+}
+
+
+/* Footer */
+
+.list-group-item, .mobileseti {
+    color: #6c757d;
+    border: none;
+}
+
+.ijtimoiy_tarmoqlar {
+    width: 40px;
+}
